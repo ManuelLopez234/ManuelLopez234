@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manuel Lopez A.K.A. @ManuelLopez234
-- 👀 I’m interested in a wide range of things such as finance,full-stack software engeneerig,product anagement, and project management.
+- 👀 I’m interested in a wide range of things such as finance,full-stack software engeneerig, product management, and project management.
 - 🌱 I’m currently learning ...
     1. Python 3
     2. HTML
